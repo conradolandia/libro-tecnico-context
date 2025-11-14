@@ -335,8 +335,4 @@ Los conceptos fundamentales incluyen:
 
 ## Licencia
 
-MIT License - Ver archivo LICENSE para más detalles.
-
-## Soporte
-
-Para reportar problemas o solicitar características, crear un issue en el repositorio del proyecto.
+© 2025 Pontifica Universidad Javeriana, todos los derechos reservados.
